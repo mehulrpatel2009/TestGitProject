@@ -13,6 +13,7 @@
 		04B8FC262582357B001CD324 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B8FC242582357B001CD324 /* Main.storyboard */; };
 		04B8FC282582357E001CD324 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B8FC272582357E001CD324 /* Assets.xcassets */; };
 		04B8FC2B2582357E001CD324 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B8FC292582357E001CD324 /* LaunchScreen.storyboard */; };
+		04B8FC34258237B5001CD324 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B8FC33258237B5001CD324 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04B8FC272582357E001CD324 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B8FC2A2582357E001CD324 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04B8FC2C2582357E001CD324 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04B8FC33258237B5001CD324 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				04B8FC1E2582357B001CD324 /* AppDelegate.swift */,
 				04B8FC202582357B001CD324 /* SceneDelegate.swift */,
+				04B8FC33258237B5001CD324 /* LoginViewController.swift */,
 				04B8FC222582357B001CD324 /* ViewController.swift */,
 				04B8FC242582357B001CD324 /* Main.storyboard */,
 				04B8FC272582357E001CD324 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B8FC34258237B5001CD324 /* LoginViewController.swift in Sources */,
 				04B8FC232582357B001CD324 /* ViewController.swift in Sources */,
 				04B8FC1F2582357B001CD324 /* AppDelegate.swift in Sources */,
 				04B8FC212582357B001CD324 /* SceneDelegate.swift in Sources */,
